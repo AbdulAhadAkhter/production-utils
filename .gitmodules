@@ -1,0 +1,3 @@
+[submodule "png2jpeg"]
+	path = png2jpeg
+	url = https://github.com/AbdulAhadAkhter/png2jpeg
