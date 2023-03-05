@@ -1,3 +1,6 @@
 [submodule "png2jpeg"]
 	path = png2jpeg
 	url = https://github.com/AbdulAhadAkhter/png2jpeg
+[submodule "video-transcode-cli"]
+	path = video-transcode-cli
+	url = https://github.com/AbdulAhadAkhter/video-transcode-cli
