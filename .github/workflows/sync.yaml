@@ -10,7 +10,10 @@ jobs:
     steps:
       - name: Checkout main repository
         uses: actions/checkout@v3
-
+        with:
+          submodules: 'recursive'
+          debug: 'true'
+    
       - name: Update submodules
         run: |
           git submodule update --remote
